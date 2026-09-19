@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MythicalHorizon.aternos.me",
+    "ip": "ProSgang.aternos.me",
     "port": 38495,
-    "version": "",
-    "try-creative": false
+    "version": "26.2",
+    "try-creative": True
   },
   "position": {
     "enabled": true,
