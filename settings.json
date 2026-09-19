@@ -2,14 +2,14 @@
   "name": "MrWarriorXD chela",
   "bot-account": {
     "username": "MrWarriorXD_Manager",
-    "password": "",
-    "type": "offline"
+    "password": "prosgang",
+    "type":online"
   },
   "server": {
     "ip": "ProSgang.aternos.me",
-    "port": 38495,
+    "port": 61665,
     "version": "26.2",
-    "try-creative": True
+    "try-creative": false
   },
   "position": {
     "enabled": true,
